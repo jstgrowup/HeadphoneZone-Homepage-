@@ -1,0 +1,12 @@
+.image{
+    position: relative;
+}
+.form{
+    position: absolute;
+    margin-top: -500px;
+    left: 130px;
+    background-color: white;
+    padding: 70px;
+    border-radius: 30px;
+    
+}

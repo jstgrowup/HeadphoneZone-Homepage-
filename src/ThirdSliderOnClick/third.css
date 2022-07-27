@@ -1,0 +1,24 @@
+.slick-next,.slick-prev{
+    position: absolute;
+}
+
+.slick-prev{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    
+    top: 350px;
+    left: 70px;
+}
+.slick-next{
+    height: 40px;
+    width: 40px;
+    /* background-color: white; */
+    /* color: black; */
+  
+    top: 350px;
+    right: 50px;
+}
+.mainBox{
+    position: relative;
+}

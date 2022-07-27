@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.imgSlider{
+    height: 600px;
+    width:100%;
+    background-image: url("./images/img1.png");
+    background-size: 100% 100%;
+    animation: changeImage 20s linear infinite ;
+}
+@keyframes changeImage {
+    0%{
+        background-image: url("./images/img1.png");
+    }
+    33.33%{
+        background-image: url("./images/img2.png");
+    }
+    66.66%{
+        background-image: url("./images/img3.png");
+    }
+    100%{
+        background-image: url("./images/img1.png");
+    }
+}
