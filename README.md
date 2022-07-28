@@ -13,8 +13,8 @@ This is the clone of the HeadphoneZone Homepage
 
 
 ```
- `cd HeadphoneZone-Homepage-`
- ` npm install `
+cd HeadphoneZone-Homepage-
+npm install 
   
 `npm run dev`
 Runs the app in the development mode.
